@@ -1,0 +1,78 @@
+.NotesDiv {
+    /* padding: 2rem !important; */
+}
+
+.AddIconss {
+    font-size: 22px !important;
+    border: 1px solid #1E8EFF;
+    border-radius: 50%;
+    float: right;
+
+    background-color: #1E8EFF;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    cursor: pointer;
+    padding: 15px;
+}
+
+.NotesDiv {
+
+    border: 1px solid black;
+    height: 430px;
+
+}
+
+.emptyNotesImage {
+    width: 350px;
+
+
+}
+
+.ModalClass {
+    border-radius: 10px !important;
+}
+
+.notesGrid {
+
+    border-radius: 4px;
+
+}
+
+.notesValuesDivision {
+    border: 1px solid black;
+    /* height: 200px; */
+    padding: 1rem;
+    overflow: hidden;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.notesMainGrid {
+    /* padding: 10px; */
+    /* margin: 20px !important; */
+    height: 430px;
+    /* overflow-y: scroll;
+    border: 1px solid gray;
+    margin: 10px !important; */
+    /* width: 90%; */
+    border: 1px solid gray;
+    width: 95% !important;
+    /* margin: 10px !important; */
+    margin-left: 32px !important;
+    margin-top: 1rem !important;
+    overflow-y: scroll;
+    padding: 1rem ;
+    border-radius: 4px;
+    background-color: #F3F9FF;
+}
+
+
+#notesDescriptionID:hover {
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important; */
+    /* box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; */
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+.IconDiv{
+    margin: 1rem ;
+
+}
